@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mecailuz
-- 👀 I’m a medical doctor.
+- 👀 I’m a medical doctor in Turkey. I am an Emergency Medicine Resident. 
 - 🌱 I’m currently learning C programming language. I am new to programming.
 - 📫 How to reach me --- yunusemregultekin55@gmail.com
 
